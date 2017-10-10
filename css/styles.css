@@ -1,0 +1,34 @@
+/*.initially-hidden {
+  display: none;
+}
+
+.image-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}*/
+
+.green-background {
+  background-color: #e6ffdd
+}
+
+.yellow-background {
+  background-color: #fffddd;
+}
+
+.red-background {
+  background-color: #ffb7b7;
+}
+
+
+.darktheme {
+  background-color:#4f4b00;
+  color: white; 
+}
